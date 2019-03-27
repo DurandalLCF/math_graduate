@@ -1,0 +1,15 @@
+[1]  Dockery D W, Pope C A, Xu X, et al. An association between air pollution and mortality in six US cities[J]. New England journal of medicine, 1993, 329(24): 1753-1759. 
+[2]  刘莹雪. 广州市环境污染与劳动生产率的关系研究[D].华南理工大学,2015.
+[3]  吴珍珍. 新疆经济增长与环境污染关系的实证分析[J]. 塔里木大学学报, 2018, 30(1): 80-87.
+[4]  俞虹,杨凯,邢璐. 中国西部地区水环境污染与经济增长关系研究[J]. 环境保护, 2007(10b):38-41.
+[5]  秦宪文. 天津市经济发展与环境污染的关系探究——基于环境库兹涅茨理论的计量分析[A]. 中国环境科学学会:中国环境科学学会,2017:6.
+[6]  张思锋,张颖. 西安循环经济发展的紧迫性分析——基于环境库兹涅茨曲线的方法[J].西安交通大学学报(社会科学版),2004(02):58-64+97. 
+[7]  Yunpeng Luo, Huai Chen. Relationship between Air Pollutants and Economic Development of the Provincial Capital Cities in China during the Past Decade[J]. Plos One,2014,9(8):1-5
+[8]  周亚敏,黄苏萍. 经济增长与环境污染的关系研究——以北京市为例基于区域面板数据的实证分析[J].国际贸易问题,2010(01):80-85.
+[9]  王默玉,庆亚敏,翟清云.基于主成分分析法的北京市经济发展与环境污染关系研究[J].电子技术与软件工程,2018(23):182-183+245.
+[10]  Kuijs L. China through 2020: a macroeconomic scenario[M]. The World Bank, 2009. No. 9 
+[11]  Selden T M, Song D.Neoclassical growth, the J curve for abatement, and the inverted U curve for pollution[J]. Journal of Environmental Economics and management,1995, 29(2): 162-168. 
+[12]  Cavlovic T A, Baker K H, Berrens R P, et al.A Meta-Analysis of Environmental Kuznets Curve Studies[J]. Agricultural and Resource Economics Review, 2000, 29(01):32-42.
+[13]  陈雯.环境库兹涅茨曲线的再思考——兼论中国经济发展过程中的环境问题. 厦门大学经济研究所. 2005(05):42-49.
+
+[99] 国际货币基金组织（IMF）：中美购买力平价GDP比较表（1980-2019年)http://blog.sina.com.cn/s/blog_416ba4c90102vl5t.html
